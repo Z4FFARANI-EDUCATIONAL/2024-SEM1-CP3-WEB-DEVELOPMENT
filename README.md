@@ -1,11 +1,5 @@
 # Mini Rede Social · Web Development
 
-| Integrante | RM |
-|---|---|
-| [Guilherme Santos Nunes](https://github.com/sannunez) | RM558989 |
-| [Henry Evideira Paulo](https://github.com/Hep4xl0) | — |
-| [Kaique Zaffarani](https://github.com/Z4ffarani) | RM556677 |
-
 Checkpoint 3 · 2024.1 · Engenharia de Software · FIAP
 
 ---
